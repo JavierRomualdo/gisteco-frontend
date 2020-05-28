@@ -1,0 +1,1 @@
+{"__schema":{"types":[{"kind":"UNION","name":"NodoArbolCapa","possibleTypes":[{"name":"Capa"},{"name":"GrupoCapa"}]},{"kind":"UNION","name":"Lecturas","possibleTypes":[{"name":"LecturasCello"},{"name":"LecturasSebalog"}]}]}}

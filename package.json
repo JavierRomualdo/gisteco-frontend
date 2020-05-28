@@ -1,0 +1,69 @@
+{
+  "name": "gistecov2.0-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@casl/ability": "^3.3.0",
+    "@casl/react": "^1.0.4",
+    "@webscopeio/react-textarea-autocomplete": "^4.6.1",
+    "ag-grid-community": "^20.2.0",
+    "ag-grid-enterprise": "^20.2.0",
+    "ag-grid-react": "^20.2.0",
+    "animate.css": "^3.7.2",
+    "apollo-boost": "^0.3.1",
+    "apollo-upload-client": "^11.0.0",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "classnames": "^2.2.6",
+    "easyolmaps": "0.0.10",
+    "express": "^4.17.1",
+    "fuse.js": "^3.4.6",
+    "graphql": "^14.5.8",
+    "graphql-tag": "^2.10.1",
+    "hover.css": "^2.3.2",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "node-fetch": "^2.6.0",
+    "ol": "^5.3.3",
+    "popper.js": "^1.16.0",
+    "primeicons": "^1.0.0",
+    "primereact": "^3.3.2",
+    "proj4": "^2.5.0",
+    "react": "^16.11.0",
+    "react-apollo": "^2.5.8",
+    "react-apollo-hooks": "^0.4.5",
+    "react-async-loader": "^0.1.2",
+    "react-bootstrap4-form-validation": "^1.0.10",
+    "react-chartjs-2": "^2.8.0",
+    "react-checkbox-tree": "^1.5.1",
+    "react-dom": "^16.11.0",
+    "react-hotkeys": "^2.0.0",
+    "react-joyride": "^2.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "react-transition-group": "^4.3.0",
+    "styled-components": "^4.4.0",
+    "sweetalert2": "^9.4.3",
+    "sweetalert2-react-content": "^1.1.0",
+    "validator": "^11.1.0"
+  },
+  "scripts": {
+    "start": "set PORT=7777 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2"
+  }
+}

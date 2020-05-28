@@ -1,0 +1,25 @@
+export const CAPA_CALLES = '1',
+    CAPA_HABILITACIONES_URBANAS = '2',
+    CAPA_MAZANAS = '3',
+    CAPA_USUARIOS = '4',
+    CAPA_USUARIOS_VMA = '12',
+    CAPA_USUARIOS_SIN_SUMINISTRO = '10',
+    CAPA_PREDIOS = '9',
+    CAPA_MIS_PUNTOS_REFERENCIA = '32',
+    CAPA_TUBERIAS = '5',
+    CAPA_TUBERIAS_ALCANTARILLADO = '6',
+    CAPA_PROBLEMAS = '36',
+    CAPA_PROBLERMAS_COMERCIAL = '14',
+    CAPA_PUNTOS_CONTROL_COMERCIAL = '37',
+    CAPA_PUNTOS_CONTROL_OPERACIONAL = '38';
+
+export const LABEL_LOCALIZAR = 'Localizar';
+export const LABEL_CARGANDO = 'Cargando...';
+export const LABEL_PAGINA = 'Página';
+export const LABEL_DE = 'de';
+export const LABEL_DESDE = 'Desde';
+export const LABEL_HASTA = 'Hasta';
+export const LABEL_A = 'a';
+export const LABEL_COPIAR = 'Copiar';
+export const LABEL_COPIAR_CON_ENCABEZADOS = 'Copiar con encabezados';
+export const LABEL_PEGAR = 'Pegar';

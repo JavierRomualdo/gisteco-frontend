@@ -1,0 +1,30 @@
+.i-carousel-item {
+    padding: 4px;
+    width: 44px;
+    height: 44px;
+    border: 1px solid darkgrey;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 0px auto;
+}
+
+.i-carousel-item:hover {
+    background-color: #eee;
+}
+
+.i-carousel-item .i-carousel-item-label {
+    line-height: 18px;
+    display: block;
+    height: 36px;
+    margin: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    cursor: inherit;
+}
+
+.i-carousel-item .i-carouse-item-icon {
+    margin: 8px 0px;
+    font-size: 18px;
+    cursor: inherit;
+}

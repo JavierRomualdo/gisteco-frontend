@@ -1,0 +1,1 @@
+export const MSJ_ERROR_CAPAS_PERMISOS = 'Error de listar capas';
